@@ -2,9 +2,9 @@
 
 How to input English words with Lingose notation?
 
-You can copy and paste the below text in your input software, in every input software, there is "setting" function, maybe they are different but similar. After pasted, when you input "va", it will show "ā", and when you input "vva", it will show "å", when you input "abandon", it will show "abandon", yeah, it is easy...
+You can copy and paste the below text in your input software, in every input software, there is a "setting" function, maybe they are different but similar. After pasted, when you input "va", it will show "ā", when you input "vva", it will show "å", when you input "abandon", it will show "abandon", yeah, it is easy...
 
-Of course, you can edit them yourself, and you can add more words in it.
+Of course, you can edit them yourself, or add more words in it.
 
 ## -----letters---------------
 ā	va
